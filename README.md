@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>casimox</title>
-    <style> 
+    <style>
         img{
-            display: none;
+            height: 500px;
+            width: 600px;
         }
         h1{
             color: aliceblue;
@@ -39,10 +40,10 @@
   transition-duration: 0.4s;
   cursor: pointer;
 }
-@media only screen and (min-width: 320px) {
+@media only screen and (min-width: 375px) {
     img{
-            display: block;
-            width: 100%;
+        height: 250px;
+        width: 350px;
         }
 }
     </style>
