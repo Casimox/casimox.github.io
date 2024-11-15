@@ -8,8 +8,8 @@
         img{
             border: 2px solid rgb(0, 0, 0);
             border-radius: 10px;
-            height: 500px;
-            width: 600px;
+            height: 400px;
+            width: 500px;
         }
         h1{
             color: aliceblue;
