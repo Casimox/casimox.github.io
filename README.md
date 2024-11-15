@@ -6,8 +6,8 @@
     <title>casimox</title>
     <style>
         img{
-            height: 500px;
-            width: 600px;
+            height: 250px;
+            width: 30px;
         }
         h1{
             color: aliceblue;
@@ -40,10 +40,10 @@
   transition-duration: 0.4s;
   cursor: pointer;
 }
-@media only screen and (min-width: 375px) {
+@media only screen and (min-width: 1000px) {
     img{
-        height: 250px;
-        width: 350px;
+        height: 500px;
+        width: 600px;
         }
 }
     </style>
