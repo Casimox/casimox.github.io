@@ -6,10 +6,7 @@
     <title>casimox</title>
     <style>
         img{
-            border: 2px solid rgb(0, 0, 0);
-            border-radius: 10px;
-            height: 400px;
-            width: 500px;
+            display: none;
         }
         h1{
             color: aliceblue;
@@ -41,6 +38,13 @@
   margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
+}
+@media only screen and (min-width: 320px) {
+    img{
+            display: block;
+            width: 100%;
+
+        }
 }
 
     </style>
