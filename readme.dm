@@ -70,6 +70,6 @@
 </center>
 <br>
 <center><p4>if you want to join the seven katakit send your cv in this gmail : medreaction@gmail.com</p4></center>
-<a href="index.html">souris</a><a href="index.html">souris</a>
+<a href="index.html">souris</a>
 </body>
 </html>
