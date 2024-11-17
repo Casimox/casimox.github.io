@@ -10,8 +10,6 @@
             border-radius: 10px;
             height: 500px;
             width: 600px;
-            
-
         }
         h1{
             color: aliceblue;
@@ -44,7 +42,9 @@
   transition-duration: 0.4s;
   cursor: pointer;
 }
-
+        a{
+           color: white;
+}
     </style>
 </head>
 <body bgcolor="black">
